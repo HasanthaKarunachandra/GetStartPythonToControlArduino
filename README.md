@@ -9,4 +9,4 @@
 
 ![Basic-LED](https://github.com/HasanthaKarunachandra/GetStartPythonToControlArduino/assets/32540627/09509582-0668-4b04-a0e1-645bc6b29097)
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/kTb8RLql86c)
+[![Watch the video](https://raw.githubusercontent.com/HasanthaKarunachandra/GetStartPythonToControlArduino/main/Play.jpg)](https://youtu.be/kTb8RLql86c)
